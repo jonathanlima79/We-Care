@@ -5,3 +5,6 @@
 
 
 <img src="https://github.com/jonathanlima79/We-Care/blob/master/img/we%20care%20desktop.png?raw=true" /> 
+
+
+<img src="https://github.com/jonathanlima79/We-Care/blob/master/img/We%20Care%20mobile.png?raw=true" />
